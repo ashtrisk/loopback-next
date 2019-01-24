@@ -17,16 +17,11 @@ summary: LoopBack 4 is a completely new framework, also known as LoopBack-Next.
 
 See [Crafting LoopBack 4](Crafting-LoopBack-4.md) for more details.
 
-### What’s the timeline for LoopBack 4?
-
-See
-[Upcoming releases](https://github.com/strongloop/loopback-next/wiki/Upcoming-Releases).
-
 ### Where are the tutorials?
 
 See [Examples and tutorials](Examples-and-tutorials.md).
 
-### What features are planned ?
+### What features are planned?
 
 - 100% promise-based APIs and async and await as first-class keywords.
 - Being able to choose to use JavaScript or TypeScript.
@@ -43,8 +38,6 @@ See [Examples and tutorials](Examples-and-tutorials.md).
 - Advanced declarative caching support
 - New DSL for defining APIs / Models
 - Completely new tooling w/ Visual Studio Code integration
-- More at
-  [Feature proposals](https://github.com/strongloop/loopback-next/wiki/Feature-proposals)
 
 Add your feature requests at
 [loopback-next/issues/new](https://github.com/strongloop/loopback-next/issues/new).
